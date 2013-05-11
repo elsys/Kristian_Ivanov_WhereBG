@@ -1,0 +1,75 @@
+/* 
+    Document   : style
+    Created on : Feb 4, 2012, 9:10:22 PM
+    Author     : kristian
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+body{
+    background-color:#f7f7f7;
+}
+body ul li{    
+    list-style:none;   
+}
+body a{
+    text-decoration:none;
+}
+#wrapper{
+    width:100%;    
+}
+
+#log_in, #search, #change_pass {
+    width:320px;         
+    margin-left:auto;
+    margin-right:auto;
+}
+#search{
+    float:left;
+}
+#wrapper a{
+    margin-right:25px;
+     color:#898989;
+}
+
+.edit_label{
+    display:block;
+    margin-top:10px;
+}
+
+
+#venue{
+    
+    border-right:6px solid #E17C48;
+    width:auto;
+    float:left;
+    padding-right:25px;
+    margin-right:25px;
+    
+}
+comments{
+    width:200px;    
+}
+.comment, .keyword_group{
+    margin-top:25px;
+    border-right:3px solid #E17C48;
+    border-bottom:3px solid #E17C48;
+    padding-right:25px;
+    margin-right:25px;
+    width:auto;
+    float:left;
+}
+
+.keyword_group{
+    border-bottom:none;
+    border-right:none;
+    height:inherit;
+    width:auto;
+}
+#keywords{
+    widht:1000px;
+}

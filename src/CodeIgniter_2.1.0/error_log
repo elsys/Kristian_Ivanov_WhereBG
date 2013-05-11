@@ -1,0 +1,3 @@
+[07-Mar-2012 13:05:41 UTC] PHP Fatal error:  Call to a member function getNumberOfEntries() on a non-object in /home/wherebgi/public_html/application/core/MY_Controller.php on line 273
+[07-Mar-2012 13:06:05 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/wherebgi/public_html/application/controllers/admin.php on line 21
+[07-Mar-2012 13:06:11 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/wherebgi/public_html/application/controllers/admin.php on line 21
